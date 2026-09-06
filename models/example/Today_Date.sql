@@ -1,0 +1,1 @@
+select getdate() as Today_Date
